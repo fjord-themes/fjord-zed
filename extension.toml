@@ -1,0 +1,10 @@
+id = "fjord"
+name = "Fjord"
+version = "0.1.4"
+schema_version = 1
+authors = ["Josh Huntley"]
+description = "Dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/cyan separation."
+repository = "https://github.com/fjord-themes/fjord-zed"
+
+[themes]
+path = "themes"
