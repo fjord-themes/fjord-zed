@@ -53,6 +53,10 @@ git clone https://github.com/fjord-themes/fjord-zed.git --depth 1 ~/.config/zed/
 ## 🔧 Configuration
 
 The theme is designed to work transparently with your terminal colors while providing optimal contrast and readability in Zed.
+## 📸 Preview
+
+![Fjord Zed Theme](images/zed.png)
+
 
 ## 🔄 Updates
 
