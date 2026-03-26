@@ -213,6 +213,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "constant.builtin": {
+            "color": "#7BB8FF",
+            "font_style": null,
+            "font_weight": null
+          },
           "constructor": {
             "color": "#5DA6EA",
             "font_style": null,
@@ -280,6 +285,11 @@
           },
           "keyword.control": {
             "color": "#7BB8FF",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.declaration": {
+            "color": "#9DD99A",
             "font_style": null,
             "font_weight": null
           },
