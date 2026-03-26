@@ -2,6 +2,9 @@
 
 A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/cyan separation for the Zed editor.
 
+![Fjord Zed Theme](images/zed.png)
+
+
 ## 🎨 Color Palette
 
 ### Core Colors
@@ -53,11 +56,6 @@ git clone https://github.com/fjord-themes/fjord-zed.git --depth 1 ~/.config/zed/
 ## 🔧 Configuration
 
 The theme is designed to work transparently with your terminal colors while providing optimal contrast and readability in Zed.
-## 📸 Preview
-
-![Fjord Zed Theme](images/zed.png)
-
-
 ## 🔄 Updates
 
 This theme is automatically generated from [fjord-core](https://github.com/fjord-themes/fjord-core) and deployed on every release. For an overview of all supported platforms and the full color palette, visit the [Fjord GitHub page](https://github.com/fjord-themes).
