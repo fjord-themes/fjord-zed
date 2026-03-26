@@ -8,7 +8,7 @@
       "appearance": "dark",
       "style": {
         "accents": [],
-        "background.appearance": "dark",
+        "background.appearance": "opaque",
         "border": "#233141",
         "border.variant": "#233141",
         "border.focused": "#2D3D52",
