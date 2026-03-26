@@ -29,6 +29,12 @@ A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/
 
 ## 📦 Installation
 
+### From Zed Marketplace
+
+1. Open Zed
+2. Open the Extensions panel (`Cmd+Shift+X` on macOS, `Ctrl+Shift+X` on Linux/Windows)
+3. Search for "Fjord"
+4. Click Install
 
 ### Manual Installation
 
@@ -37,7 +43,7 @@ A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/
 
 ```bash
 mkdir -p ~/.config/zed/themes/
-git clone https://git.jshuntley.com/fjord-theme/fjord-zed.git --depth 1 ~/.config/zed/themes/fjord-zed
+git clone https://github.com/fjord-themes/fjord-zed.git --depth 1 ~/.config/zed/themes/fjord-zed
 ```
 
 
@@ -50,7 +56,7 @@ The theme is designed to work transparently with your terminal colors while prov
 
 ## 🔄 Updates
 
-This theme is automatically generated from [fjord-core](https://git.jshuntley.com/fjord-theme/fjord-core) and deployed on every release. For an overview of all supported platforms and the full color palette, visit the [Fjord theme page](https://git.jshuntley.com/fjord-theme).
+This theme is automatically generated from [fjord-core](https://github.com/fjord-themes/fjord-core) and deployed on every release. For an overview of all supported platforms and the full color palette, visit the [Fjord GitHub page](https://github.com/fjord-themes).
 ## ☕ Support My Work
 
 If you enjoy the Fjord theme and find it useful, consider supporting my work:
