@@ -1,6 +1,6 @@
 # Fjord Theme for Zed
 
-A dusk-blue base with soft leaf-green accents, amber selections, and crisp blue/cyan separation for the Zed editor.
+A dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/cyan separation for the Zed editor.
 
 ![Fjord Zed Theme](images/zed.png)
 
