@@ -49,8 +49,14 @@ mkdir -p ~/.config/zed/themes/
 git clone https://github.com/fjord-themes/fjord-zed.git --depth 1 ~/.config/zed/themes/fjord-zed
 ```
 
+2. Copy the theme file to your Zed themes directory:
 
-2. Open the theme picker (`Ctrl+K Ctrl+T` on Linux/Windows, `Cmd+K Cmd+T` on macOS) and select **Fjord**.
+```bash
+cp ~/.config/zed/themes/fjord-zed/themes/fjord.json ~/.config/zed/themes/fjord.json
+```
+
+
+3. Open the theme picker (`Ctrl+K Ctrl+T` on Linux/Windows, `Cmd+K Cmd+T` on macOS) and select **Fjord**.
 
 
 ## 🔧 Configuration
