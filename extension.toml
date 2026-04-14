@@ -5,6 +5,3 @@ schema_version = 1
 authors = ["Josh Huntley"]
 description = "Dusk-blue base with soft leaf-green accents, cyan selections, and crisp blue/cyan separation."
 repository = "https://github.com/fjord-themes/fjord-zed"
-
-[themes]
-path = "themes"
